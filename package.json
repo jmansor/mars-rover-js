@@ -1,0 +1,27 @@
+{
+  "name": "mars-rover-js",
+  "version": "1.0.0",
+  "description": "For paring",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nowsta/mars-rover-js.git"
+  },
+  "keywords": [
+    "paring",
+    "interview"
+  ],
+  "author": "Yi Wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nowsta/mars-rover-js/issues"
+  },
+  "homepage": "https://github.com/Nowsta/mars-rover-js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
