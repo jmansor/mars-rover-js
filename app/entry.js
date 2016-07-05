@@ -1,4 +1,4 @@
-import * as App from "./main"
+import App from "./main"
 
 const object = App.initialize({props: "ppp"});
 console.log(object.myProps());

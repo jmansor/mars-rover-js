@@ -1,4 +1,4 @@
-export function initialize({props}) {
+function initialize({props}) {
   const myProps = function() {
     return props;
   };
@@ -6,4 +6,8 @@ export function initialize({props}) {
   return({
     myProps,
   })
+};
+
+export default {
+  initialize,
 }
